@@ -113,3 +113,10 @@ Update student records
 Prevent duplicate roll numbers
 
 Improve input validation
+👤 Author
+Name: Umer Naveed Course: Programming Fundamentals Semester: 1st Department: Artificial Intelligence
+
+📄 License
+This project is created for educational purposes only and is free to use for learning and academic submissions.
+
+✨ End of README ✨
